@@ -110,9 +110,7 @@ const Slider = () => {
                                     <br />
                                 </span>{" "}
                                 <div>
-                                    <span className="loop-text">Full Stack Developer</span>
-                                    <span className="loop-text"> </span>
-                                    <span className="loop-text"> </span>
+                                    <span className="loop-text">FullStack Developer</span>
                                 </div>{" "}
                                 <span className="overlay_effect"></span>
                             </h3>
@@ -120,8 +118,8 @@ const Slider = () => {
                         {/* End title */}
 
                         <div className="job_wrap">
-                            <span className="job">
-                                based in Costa Rica.
+                            <span className="white-fill-bg btn-outline ">
+                                Disponible para trabajar
                                 <span className="overlay_effect"></span>
                             </span>
                         </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/header/Header";
-import Slider from "../../components/slider/SliderFour";
+import Slider from "../../components/slider/Slider";
 import About from "../../components/about/About";
 import Portfolio from "../../components/portfolio/PortfolioTwo";
 import Brand from "../../components/BrandAnimation";

@@ -31,7 +31,7 @@ const About = () => {
                                     data-aos-duration="1200"
                                 >
                                     <span>About Me</span>
-                                    <h3>Full Stack Developer en Costa Rica</h3>
+                                    <h3>Full-Stack Developer en Costa Rica</h3>
                                 </div>
                                 <div
                                     className="text"
@@ -39,21 +39,29 @@ const About = () => {
                                     data-aos-duration="1200"
                                 >
                                     <p>
-                                        Desarrollador Web Jr y ansioso por dar el siguiente paso en mi carrera.
-                                        Con una base sólida en desarrollo y un ardiente deseo de ampliar mis habilidades,
-                                        Listo para afrontar nuevos desafíos y contribuir a proyectos de desarrollo,
-                                        Estoy entusiasmado con todos los aspectos del proceso de desarrollo, desde la lluvia de ideas y la colaboración.
-                                        Comprometido con el aprendizaje y crecimiento continuo en el mundo del desarrollo web, con énfasis específico en React.
+                                        Me llamo Josue Guido pero mis amigos me llaman Guido.
 
-
+                                        <strong
+                                        >+1 año de experiencia.Creando paginas web desde el lado del cliente como del servidor.
+                                        </strong>.
                                     </p>
+
+
+
+                                    <p>
+                                        Disfruto explorando las buenas prácticas en programación, desde el uso de HTML semántico hasta la implementación de principios de "clean code" y testing.
+                                        <strong
+                                        > Actualmente, estoy trabajando en la creación de un blog donde compartiré recursos y guías para contribuir a la comunidad de desarrolladores a escribir codigo de gran calidad.
+                                        </strong>
+                                    </p>
+
                                 </div>
                                 <div
                                     className="shane_tm_button"
                                     data-aos="fade-up"
                                     data-aos-duration="1200"
                                 >
-                                    <a href="img/resume/resume.jpg" download>
+                                    <a href="img/resume/" download>
                                         Download CV
                                     </a>
                                 </div>
