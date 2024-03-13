@@ -33,10 +33,8 @@ const Home = () => {
           </div>
         </div>
       </div>
-      {/* End shane_tm_partners */}
 
      
-    
 
       <CallToAction />
       {/* End CallToAction */}

@@ -30,7 +30,7 @@ const About = () => {
                                     data-aos="fade-up"
                                     data-aos-duration="1200"
                                 >
-                                    <span>About Me</span>
+                                    <span>Sobre Mi</span>
                                     <h3>Full-Stack Developer en Costa Rica</h3>
                                 </div>
                                 <div
@@ -45,15 +45,8 @@ const About = () => {
                                         >+1 año de experiencia.Creando paginas web desde el lado del cliente como del servidor.
                                         </strong>.
                                     </p>
-
-
-
-                                    <p>
-                                        Disfruto explorando las buenas prácticas en programación, desde el uso de HTML semántico hasta la implementación de principios de "clean code" y testing.
-                                        <strong
-                                        > Actualmente, estoy trabajando en la creación de un blog donde compartiré recursos y guías para contribuir a la comunidad de desarrolladores a escribir codigo de gran calidad.
-                                        </strong>
-                                    </p>
+                                    <p>Me apasionan las buenas prácticas en programación, desde la escritura de código mantenible y reutilizable hasta las pruebas exhaustivas.</p>
+                                    <p><strong>Actualmente, estoy embarcado en la creación de un blog con el objetivo de compartir recursos y guías que ayuden a la comunidad de desarrolladores a producir código de la más alta calidad.</strong></p>
 
                                 </div>
                                 <div
